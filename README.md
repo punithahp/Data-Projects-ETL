@@ -1,6 +1,7 @@
 # Sample-Data-Projects
 The folder contains several sample ETL data projects 
 
+
 **1. Project name: Gym - Membership management and marketing**
 
 **Usecase:** In a local gym, every month there is a need to find out the list of members who are currently active and
@@ -19,6 +20,7 @@ if this process can be automated with python program
     "BronzeMonthlyFile" --> that contains the list of all members who have "Bronze" membership
 
 **How to run this program:** please install a python IDE, download the "gym_MemberManagement.py" and the "data" folders to your local and then run the python code.
+
 
 
 **2. Project name (CourseEra practice project): ETL - Automated extraction of GDP's of all countires**
